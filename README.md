@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-  MAchine Learning Aplicattions
+  Machine Learning Aplicattions
 </h1>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/franklinthony/machine-learning-aplicattions">
